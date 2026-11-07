@@ -1,2 +1,2 @@
 # LLMs-Kya-Kahenge
-New repository for paper reviews and scoring
+Repository for paper reviews and scoring
